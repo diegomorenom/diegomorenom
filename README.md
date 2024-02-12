@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @diegomorenom
-- 👀 I’m interested in machine learning, AI, data analysis.
-- 🌱 I’m currently learning backend development.
-- 💞️ I’m looking to collaborate on sports and environmental sciences.
-- 📫 Reach me by email diegoem93@gmail.com
+- 👀 I’m interested in machine learning, AI, and data analysis.
+- 🌱 I’m currently learning backend development with python.
+- 💞️ I’m looking to collaborate on business, supply chain, sports, and environmental sciences.
+- 📫 Reach me by email at diegoem93@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an industrial engineer who can code.
 
